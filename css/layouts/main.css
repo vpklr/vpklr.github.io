@@ -296,13 +296,3 @@ a.pure-button-primary {
 .social {
     float: right;
 }
-
-.price {
-    display: none;
-    padding-bottom: 1em;
-}
-
-.price img {
-    display: block;
-    margin: auto;
-}
