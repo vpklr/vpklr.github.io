@@ -292,3 +292,17 @@ a.pure-button-primary {
 .button-xlarge {
     font-size: 150%;
 }
+
+.social {
+    float: right;
+}
+
+.price {
+    display: none;
+    padding-bottom: 1em;
+}
+
+.price img {
+    display: block;
+    margin: auto;
+}
